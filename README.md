@@ -35,3 +35,10 @@ Success callback function:
     {
         console.log(uuid);
     };
+    
+failure  callback function:
+
+  function fail(err)
+    {
+        console.log(err);
+    };
